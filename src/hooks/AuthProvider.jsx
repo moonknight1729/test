@@ -11,7 +11,7 @@ const AuthProvider = ({children}) => {
 
   const loginAction = async (input) => {
     try {
-      const response = await axios.get("http://localhost:3000/users");
+      const response = await axios.get("https://todo-server-mu-nine.vercel.app/users");
 
       const users = response.data;
       console.log(users);

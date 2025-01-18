@@ -43,7 +43,7 @@ function Signup() {
       console.log("Form submitted successfully:", formData);
       // Proceed with form submission logic
 
-      const res = await axios.post("http://localhost:3000/users", formData);
+      const res = await axios.post("https://todo-server-mu-nine.vercel.app/users", formData);
 
       console.log(res.data);
     }
