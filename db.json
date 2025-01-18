@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "134d",
+      "username": "ss",
+      "email": "prathamjob1729@gmail.com",
+      "password": "sssdddd",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOiIxNDE2OTI5MDYxIiwianRpIjoiODAyMDU3ZmY5YjViNGViN2ZiYjg4NTZiNmViMmNjNWIiLCJzY29wZXMiOnsidXNlcnMiOnsiYWN0aW9ucyI6WyJyZWFkIiwiY3JlYXRlIl19LCJ1c2Vyc19hcHBfbWV0YWRhdGEiOnsiYWN0aW9ucyI6WyJyZWFkIiwiY3JlYXRlIl19fX0.gll8YBKPLq6ZLkCPLoghaBZG_ojFLREyLQYx0l2BG3E"
+    }
+  ]
+}
